@@ -40,6 +40,12 @@ Open the URL printed in the terminal (default: **http://localhost:5173**) in you
 
 ---
 
+## Live Demo
+
+[https://bundle-builder-lemon.vercel.app/](https://bundle-builder-lemon.vercel.app/)
+
+---
+
 ## Features
 
 - **Multi-step accordion flow** — Cameras, Plan, Sensors, Accessories. Multiple sections can be open at once; the first opens by default.
